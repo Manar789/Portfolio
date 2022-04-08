@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+  font-weight: bold;
+  background-image: url(../images/computer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  color:#E88781;
+  font-size: 4.375rem;
+  margin: 100px auto 0 auto;
+  font-family: 'Qwigley', cursive;
+  font-weight: 500;
+}
+
+h2 {
+  color:#EA938D;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.562rem;
+  font-weight: bold;
+}
+
+h3 {
+  color:#EEABA6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+P {
+  line-height: 2;
+}
+
+a {
+  color: #EA938D;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 6px;
+  border-bottom: none;
+  width: 4%;
+  border-color: #F5CFCC;
+  margin: 70px auto;
+}
+
+.role {
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+}
+
+.profile {
+  margin-top: 50px;
+}
+
+.intro {
+  margin:auto;
+  width: 30%;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EEABA6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #EA938D;
+  background-image: linear-gradient(#e88782, #ffa6a1);
+  border-radius: 28px;
+  color: #eaf6f6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffa39e;
+  background-image: linear-gradient(#ffa39e, #fab8b4);
+  text-decoration: none;
+}
+
+.skill {
+  width: 25%;
+  float:left;
+  margin: 0 30px;
+}
+
+.bike {
+  width: 25%;
+  float: right;
+  margin: 0 30px;
+}
